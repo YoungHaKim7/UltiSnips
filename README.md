@@ -1,5 +1,5 @@
 # UltiSnips
-Vim UltiSnips Snippets for Rust Programming Language
+Vim [UltiSnips](https://github.com/SirVer/ultisnips) Snippets for Rust Programming Language
 
 # Installation
 
