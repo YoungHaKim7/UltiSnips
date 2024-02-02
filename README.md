@@ -10,6 +10,11 @@ or
 ~/.vim/UltiSnips
 ```
 
+# Requirements
+------------
+[UltiSnips](https://github.com/SirVer/ultisnips) is required for enabling the snippet functions
+
+
 # 각 언어 들어가서 
 
 - 누르고 정리해 주면 된다.
